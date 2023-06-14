@@ -1,2 +1,3 @@
 # Customer-Acquisition-Source-Analysis
 The "Customer Acquisition Source Analysis Dashboard" provides a comprehensive overview of the primary sources through which customers are coming to your hotels. By analyzing data based on gender, purpose of visit, information discovery channels, and departure ratings, this dashboard offers valuable insights for your customer acquisition strategy. 
+Understand gender-specific trends, determine the main purposes of guest visits, identify effective marketing channels, and assess customer satisfaction upon departure. With these actionable insights, you can optimize your marketing efforts, enhance customer experiences, and drive the success of your hotels.
